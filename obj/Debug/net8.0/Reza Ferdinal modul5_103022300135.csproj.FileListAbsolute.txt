@@ -1,0 +1,15 @@
+D:\Reza Ferdinal modul5_103022300135\bin\Debug\net8.0\Reza Ferdinal modul5_103022300135.exe
+D:\Reza Ferdinal modul5_103022300135\bin\Debug\net8.0\Reza Ferdinal modul5_103022300135.deps.json
+D:\Reza Ferdinal modul5_103022300135\bin\Debug\net8.0\Reza Ferdinal modul5_103022300135.runtimeconfig.json
+D:\Reza Ferdinal modul5_103022300135\bin\Debug\net8.0\Reza Ferdinal modul5_103022300135.dll
+D:\Reza Ferdinal modul5_103022300135\bin\Debug\net8.0\Reza Ferdinal modul5_103022300135.pdb
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.AssemblyInfoInputs.cache
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.AssemblyInfo.cs
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.csproj.CoreCompileInputs.cache
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.sourcelink.json
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.dll
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\refint\Reza Ferdinal modul5_103022300135.dll
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.pdb
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\Reza Ferdinal modul5_103022300135.genruntimeconfig.cache
+D:\Reza Ferdinal modul5_103022300135\obj\Debug\net8.0\ref\Reza Ferdinal modul5_103022300135.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reza Ferdinal modul5_103022300135")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e699b27c54499d505f42492c8c57ebdd283b0777")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reza Ferdinal modul5_103022300135")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reza Ferdinal modul5_103022300135")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
